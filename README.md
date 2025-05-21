@@ -17,11 +17,13 @@ An interactive Power BI dashboard designed to visualize key metrics and engageme
 
 | File | Description |
 |------|-------------|
-| [Exploratory Data Analysis Report] | Initial data audit, data cleaning, and profiling |
-| [Team Presentation PDF] | Final stakeholder presentation |
-| [Wireframe Mockup] | High-level dashboard layout |
+| [Exploratory Data Analysis Report](https://github.com/Saich6/data-analysis-dashboard/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20Report%20Week%201.docx) | Initial data audit, data cleaning, and profiling |
+| [Team Presentation PDF] (https://github.com/Saich6/data-analysis-dashboard/blob/main/Team%201E%20Presentation_document.pdf) | Final stakeholder presentation |
+| [Wireframe Mockup](https://github.com/Saich6/data-analysis-dashboard/blob/main/Wireframe.jpeg) | High-level dashboard layout |
 | [Power BI File (.pbix)](https://github.com/Saich6/data-analysis-dashboard/blob/main/DashBoard_Final.pbix) | Final interactive dashboard file |
-| [Team Presentation Video] | Video explanation of the dashboard |
+| [Team Presentation Video](https://github.com/Saich6/data-analysis-dashboard/blob/main/Team%201E%20Presentation.mp4) | Video explanation of the dashboard |
+[UserData.csv](https://github.com/Saich6/data-analysis-dashboard/blob/main/UserData.csv) | Dataset containing demographic and signup details of users |
+| [Opportunity Wise Data.csv](https://github.com/Saich6/data-analysis-dashboard/blob/main/Opportunity%20Wise%20Data.csv) | Dataset tracking opportunity participation and completion |
 
 ---
 
